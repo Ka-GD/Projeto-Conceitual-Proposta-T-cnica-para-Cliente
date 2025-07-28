@@ -1,5 +1,5 @@
 
-# Desafio Final-Módulo 1 -Karyne Guinyver Dias da Silva
+# Desafio Final-Módulo 1 -Karyne Guinyver 
 
 ## Sumário Executivo
 
